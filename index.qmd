@@ -1,22 +1,19 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Clarissa Gutierrez"
+image: images/clarissa_fsc.png
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/clarissagutierrez0812/
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/cigm99
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:cigm99@gmail.com
 ---
 
 Hey there people,

@@ -1,6 +1,6 @@
 ---
 title: "Clarissa Gutierrez"
-image: images/clarissa_fsc.png
+image: images/clarissa_fsc.jpeg
 about:
   template: trestles
   image-width: 20em

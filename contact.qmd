@@ -1,0 +1,51 @@
+---
+title: "Contact"
+format:
+  html:
+    page-layout: custom
+    toc: false
+---
+
+```{=html}
+<section class="contact-hero">
+
+  <p class="contact-greeting">Get in Touch</p>
+
+  <h1 class="contact-title">Let's <em>Connect</em></h1>
+
+  <div class="contact-divider"></div>
+
+  <p class="contact-intro">
+    I'm currently open to work opportunities and collaborations.
+    Whether you have a project in mind, want to talk geomatics, or just want to say hello! 
+    I'd love to hear from you.
+  </p>
+
+  <!-- Location -->
+  <div class="contact-location">
+    <span class="location-icon">📍</span>
+ <span>Vancouver, BC, Canada &nbsp;·&nbsp; Available across North America</span>
+  </div>
+
+  <!-- Links -->
+  <div class="contact-links">
+
+    <a href="mailto:cigm99@gmail.com" class="contact-card">
+      <span class="contact-card-label">Email</span>
+      <span class="contact-card-value">cigm99@gmail.com</span>
+    </a>
+
+    <a href="https://www.linkedin.com/in/clarissagutierrez0812/" target="_blank" class="contact-card">
+      <span class="contact-card-label">LinkedIn</span>
+      <span class="contact-card-value">clarissagutierrez0812</span>
+    </a>
+
+    <a href="https://github.com/cigm99" target="_blank" class="contact-card">
+      <span class="contact-card-label">GitHub</span>
+      <span class="contact-card-value">cigm99</span>
+    </a>
+
+  </div>
+
+</section>
+```

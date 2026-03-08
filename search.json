@@ -1,51 +1,72 @@
 [
   {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Map Gallery",
+    "section": "",
+    "text": "✕\n    \n    \n      \n      \n    \n  \n\n\n\n\n\n  \n    \n    \n      Grizzly Bear Habitat & Least Cost Path\n      Raster analysis and least cost path modeling of Grizzly Bear movement in western Alberta.\n    \n  \n\n  \n    \n    \n      Old-Growth Forest Coverage Deficit\n      Spatial analysis of old-growth shortfall from high-threshold CEF targets on Vancouver Island.\n    \n  \n\n  \n    \n    \n      Salmon Spawning Habitat Network\n      Hydrologic network analysis and salmon spawning habitat identification on Vancouver Island.\n    \n  \n\n  \n    \n    \n      Identifying Illegal Urban Solid Waste Dumps\n      Supervised classification and spectral signature analysis to map illegal waste sites in Cd. Obregon, Sonora."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Interactive Projects",
+    "section": "",
+    "text": "CAP Potential is an interactive 3D visualization exploring how vineyard terrain influences the spatial accumulation of cold air. During calm, stable nighttime conditions, dense cooled air moves downslope and settles in low-lying areas, a process particularly relevant to viticulture where frost during critical growth stages can cause significant crop damage.\nThe analysis uses a high-resolution digital terrain model (DTM) derived from UAV photogrammetry. A Topographic Position Index (TPI) was applied to identify terrain depressions, while flow accumulation was used to represent cold-air drainage pathways. Combining both metrics allowed the vineyard to be classified by its relative susceptibility to cold-air\nThe 3D view makes subtle elevation differences and drainage patterns far more interpretable than traditional 2D maps, supporting site-specific frost risk awareness and vineyard management planning.\n\n  \n  \n    Cold Air Pooling Potential\n    \n      \n      High\n    \n    \n      \n      Moderate\n    \n    \n      \n      Low\n    \n    \n      \n      No CAP\n    \n  \n\n\n\n\nLiDAR (Light Detection and Ranging) captures the three-dimensional structure of forest canopies with exceptional detail, making it a powerful tool for individual tree detection and forest inventory. This analysis uses a normalized LiDAR point cloud collected at the Malcolm Knapp Research Forest (MKRF) in Maple Ridge, British Columbia, a mixed conifer research forest managed by the University of British Columbia.\nIndividual trees were segmented using the Li et al. (2012) point cloud-based algorithm, which works from the treetop downward, progressively assigning points to individual trees based on their relative spacing and height. Each detected tree is assigned a unique ID and colored accordingly, allowing direct visualization of crown boundaries, tree density, and stand structure.\nThe interactive viewer below allows you to rotate, zoom, and explore the segmented point cloud in 3D.\n\n\n\n\nBloomWatch is an interactive web application developed as part of a research project analyzing chlorophyll concentration in coastal water bodies in southern Sonora, Mexico, using Sentinel-2 satellite imagery processed through Google Earth Engine.\nThe app allows users to visually compare the Normalized Difference Chlorophyll Index (NDCI) between any two years, side by side, with synchronized maps and a monthly time selector. The default comparison is set to January, historically the peak of the wheat production season in the region, making it particularly relevant for studying the relationship between agricultural activity and aquatic chlorophyll levels.\nThe 2024-2025 winter served as a key control period for this study. Due to severe water scarcity, the local irrigation district denied 98% of agricultural water permits, significantly reducing irrigation runoff as a nutrient input. This created a rare natural experiment to isolate and observe chlorophyll behavior under minimal agricultural influence, providing valuable insight into algae bloom dynamics in the region.\n\nThis Google Earth Engine app allows you to explore and visualize NDCI patterns across years and months around the world."
+  },
+  {
+    "objectID": "projects.html#cap-potential-cold-air-pooling-terrain-analysis",
+    "href": "projects.html#cap-potential-cold-air-pooling-terrain-analysis",
+    "title": "Interactive Projects",
+    "section": "",
+    "text": "CAP Potential is an interactive 3D visualization exploring how vineyard terrain influences the spatial accumulation of cold air. During calm, stable nighttime conditions, dense cooled air moves downslope and settles in low-lying areas, a process particularly relevant to viticulture where frost during critical growth stages can cause significant crop damage.\nThe analysis uses a high-resolution digital terrain model (DTM) derived from UAV photogrammetry. A Topographic Position Index (TPI) was applied to identify terrain depressions, while flow accumulation was used to represent cold-air drainage pathways. Combining both metrics allowed the vineyard to be classified by its relative susceptibility to cold-air\nThe 3D view makes subtle elevation differences and drainage patterns far more interpretable than traditional 2D maps, supporting site-specific frost risk awareness and vineyard management planning.\n\n  \n  \n    Cold Air Pooling Potential\n    \n      \n      High\n    \n    \n      \n      Moderate\n    \n    \n      \n      Low\n    \n    \n      \n      No CAP"
+  },
+  {
+    "objectID": "projects.html#individual-tree-detection-using-lidar",
+    "href": "projects.html#individual-tree-detection-using-lidar",
+    "title": "Interactive Projects",
+    "section": "",
+    "text": "LiDAR (Light Detection and Ranging) captures the three-dimensional structure of forest canopies with exceptional detail, making it a powerful tool for individual tree detection and forest inventory. This analysis uses a normalized LiDAR point cloud collected at the Malcolm Knapp Research Forest (MKRF) in Maple Ridge, British Columbia, a mixed conifer research forest managed by the University of British Columbia.\nIndividual trees were segmented using the Li et al. (2012) point cloud-based algorithm, which works from the treetop downward, progressively assigning points to individual trees based on their relative spacing and height. Each detected tree is assigned a unique ID and colored accordingly, allowing direct visualization of crown boundaries, tree density, and stand structure.\nThe interactive viewer below allows you to rotate, zoom, and explore the segmented point cloud in 3D."
+  },
+  {
+    "objectID": "projects.html#bloom-watch---chlorophyll-ndci-viewer",
+    "href": "projects.html#bloom-watch---chlorophyll-ndci-viewer",
+    "title": "Interactive Projects",
+    "section": "",
+    "text": "BloomWatch is an interactive web application developed as part of a research project analyzing chlorophyll concentration in coastal water bodies in southern Sonora, Mexico, using Sentinel-2 satellite imagery processed through Google Earth Engine.\nThe app allows users to visually compare the Normalized Difference Chlorophyll Index (NDCI) between any two years, side by side, with synchronized maps and a monthly time selector. The default comparison is set to January, historically the peak of the wheat production season in the region, making it particularly relevant for studying the relationship between agricultural activity and aquatic chlorophyll levels.\nThe 2024-2025 winter served as a key control period for this study. Due to severe water scarcity, the local irrigation district denied 98% of agricultural water permits, significantly reducing irrigation runoff as a nutrient input. This created a rare natural experiment to isolate and observe chlorophyll behavior under minimal agricultural influence, providing valuable insight into algae bloom dynamics in the region.\n\nThis Google Earth Engine app allows you to explore and visualize NDCI patterns across years and months around the world."
+  },
+  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Education\n\nList your education here.\n\n\n\nPublications\nPeer-reviewed publications:\n\nList any peer-reviewed publications here.\n\nReports:\n\nList any non-peer reviewed materials you’d like to share here.\n\n\n\nConferences & Talks\nInvited Talks\n\nIf you’ve been invited to speak in a professional setting, list that here.\n\nConference Presentations\n\nIf the presentation was at a conference, list them here.\n\n\n\nAwards & Honors\n\nList any scholarships, bursaries, etc.\n\n\n\nTeaching Assistantships\n\nList any TA positions you may have held.\n\n\n\nInstitutional Service\n\nVolunteering etc."
+    "text": "Master of Geomatics for Environmental Management\nUniversity of British Columbia\n2025 - Present\nB.Eng. Environmental Sciences\nSonora Institute of Technology\n2018 - 2022\n\n\nGraduate Research Assistant\nUniversity of British Columbia, Faculty of Arts\nCollaborative Digital Heritage Studio\nVancouver, Canada\n2025 - Present\n\nDeveloped interactive web mapping experiences (ArcGIS Experience Builder, StoryMaps) for Indigenous cultural preservation and storytelling.\n\n\n\nTranslated research into accessible, public-facing content through cross-team collaboration.\n\nProject Manager\n642 Studio, Digital Marketing & SAAS\nSonora, Mexico\n2024-2025\n\nCoordinated concurrent client projects, managing scope, timelines, deliverables, and documentation.\n\n\n\nLiaised across clients, vendors, and internal teams, providing updates and supporting QA to keep delivery on track.\n\nUndergraduate Research Assistant\nSonora Institute of Technology\nWater and Environmental Sciences Department\nSonora, Mexico\n2021-2022\n\nSupported climate impacts research via data collection, dataset management, and reproducible statistical analysis in R.\n\n\n\nAnalyzed 400+ wheat leaf imprint samples and contributed to literature review and technical writing.\n\nEnvironmental Intern Lead\nRubisco, Environmental Solutions Consulting\nSonora, Mexico\n2020-2021\n\nDirected a 4-person project delivering GIS and remote sensing analysis of illegal waste disposal impacts to inform sustainability planning.\n\n\n\nProduced georeferenced high-tension tower locations, interpreted UAV-based observations to support infrastructure condition reporting and risk documentation.\n\n\n\n\n1st International Congress of Agroecosystems\nStomatal Characterization of the Durum Wheat Variety CIRNO C2008 in the Yaqui Valley under Elevated Night Temperature Conditions\nPoster Presentation\n2021\n\n\n\n\n\n2025 Excellence Scholarship for Graduate Studies Abroad\nEsposos Rodríguez Foundation\n$32,000 USD\n\n\n\n\n\n2nd International Conference on Forest Therapy\nLogistics Volunteer\nVancouver, Canada\n2025\n6th International Symposium on Environmental Biotechnology and Engineering\nVolunteer\nSonora, Mexico\n2018"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Clarissa Gutierrez",
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Resume",
     "section": "",
-    "text": "Hey there!\nWelcome to the soon-to-be coolest e-portfolio.\nSo far, here you can find my professional social media. According to my linked In: I’m an Environmental Engineering professional with specialized in geospatial data analysis, and sustainable resource management. Proficient in GIS tools, environmental assessments, and statistical analysis. I’m passionate about driving environmental initiatives and contributing to sustainable solutions."
+    "text": "Graduate Research Assistant\nUniversity of British Columbia, Faculty of Arts\nCollaborative Digital Heritage Studio\nVancouver, Canada\n2025 - Present\n\nDeveloped interactive web mapping experiences (ArcGIS Experience Builder, StoryMaps) for Indigenous cultural preservation and storytelling.\n\n\n\nTranslated research into accessible, public-facing content through cross-team collaboration.\n\nProject Manager\n642 Studio, Digital Marketing & SAAS\nSonora, Mexico\n2024-2025\n\nCoordinated concurrent client projects, managing scope, timelines, deliverables, and documentation.\n\n\n\nLiaised across clients, vendors, and internal teams, providing updates and supporting QA to keep delivery on track.\n\nUndergraduate Research Assistant\nSonora Institute of Technology\nWater and Environmental Sciences Department\nSonora, Mexico\n2021-2022\n\nSupported climate impacts research via data collection, dataset management, and reproducible statistical analysis in R.\n\n\n\nAnalyzed 400+ wheat leaf imprint samples and contributed to literature review and technical writing.\n\nEnvironmental Intern Lead\nRubisco, Environmental Solutions Consulting\nSonora, Mexico\n2020-2021\n\nDirected a 4-person project delivering GIS and remote sensing analysis of illegal waste disposal impacts to inform sustainability planning.\n\n\n\nProduced georeferenced high-tension tower locations, interpreted UAV-based observations to support infrastructure condition reporting and risk documentation."
   },
   {
-    "objectID": "content.html",
-    "href": "content.html",
-    "title": "Content & Deliverables",
+    "objectID": "resume.html#conferences",
+    "href": "resume.html#conferences",
+    "title": "Resume",
     "section": "",
-    "text": "This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen (“On this page”).\nIf you’ve produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.\n\n\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\n\n\n\n\n\n\n\n\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)\n\n\n\n\n\n\nYou can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+    "text": "1st International Congress of Agroecosystems\nStomatal Characterization of the Durum Wheat Variety CIRNO C2008 in the Yaqui Valley under Elevated Night Temperature Conditions\nPoster Presentation\n2021"
   },
   {
-    "objectID": "content.html#leaflet",
-    "href": "content.html#leaflet",
-    "title": "Content & Deliverables",
+    "objectID": "resume.html#scholarships",
+    "href": "resume.html#scholarships",
+    "title": "Resume",
     "section": "",
-    "text": "Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here."
+    "text": "2025 Excellence Scholarship for Graduate Studies Abroad\nEsposos Rodríguez Foundation\n$32,000 USD"
   },
   {
-    "objectID": "content.html#code-snippets",
-    "href": "content.html#code-snippets",
-    "title": "Content & Deliverables",
+    "objectID": "resume.html#institutional-service",
+    "href": "resume.html#institutional-service",
+    "title": "Resume",
     "section": "",
-    "text": "Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
-  },
-  {
-    "objectID": "content.html#external-links",
-    "href": "content.html#external-links",
-    "title": "Content & Deliverables",
-    "section": "",
-    "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Peer-reviewed publications:\nDespite listing them on your resume, it may also be pertinent to create a seperate tab for publications and reports. As your career progresses, this list may become quite long, so be sure to organize things. You may want to point to ‘most recent’ publications, or categorize things by project/topic."
+    "text": "2nd International Conference on Forest Therapy\nLogistics Volunteer\nVancouver, Canada\n2025\n6th International Symposium on Environmental Biotechnology and Engineering\nVolunteer\nSonora, Mexico\n2018"
   }
 ]

@@ -3,17 +3,19 @@ project:
   output-dir: C:/Users/clarigtz.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio
 
 website:
-  title: "Clarissa's Portfolio"
+  title: "E-Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: resume.qmd
         text: Resume
-      - href: publications.qmd
-        text: Publications
-      - href: content.qmd
-        text: Content & Deliverables
+      - href: projects.qmd
+        text: Projects
+      - href: work.qmd
+        text: Map Gallery
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

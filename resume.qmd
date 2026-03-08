@@ -1,39 +1,90 @@
 ---
 title: "Resume"
+format: html
+editor: visual
 ---
 
-# Education
+# **Education**
 
--   List your education here.
+**Master of Geomatics for Environmental Management**\
+University of British Columbia\
+2025 - Present
 
-# Publications
+**B.Eng. Environmental Sciences** \
+Sonora Institute of Technology\
+2018 - 2022
 
-*Peer-reviewed publications:*
+## **Work Experience**
 
--   List any peer-reviewed publications here.
+**Graduate Research Assistant \
+**University of British Columbia, Faculty of Arts\
+Collaborative Digital Heritage Studio\
+Vancouver, Canada\
+2025 - Present
 
-*Reports:*
+-   Developed interactive web mapping experiences (ArcGIS Experience Builder, StoryMaps) for Indigenous cultural preservation and storytelling.
 
--   List any non-peer reviewed materials you'd like to share here.
+<!-- -->
 
-# Conferences & Talks
+-    Translated research into accessible, public-facing content through cross-team collaboration.
 
-*Invited Talks*
+**Project Manager\
+**642 Studio, Digital Marketing & SAAS\
+Sonora, Mexico\
+2024-2025
 
--   If you've been invited to speak in a professional setting, list that here.
+-   Coordinated concurrent client projects, managing scope, timelines, deliverables, and documentation.
 
-*Conference Presentations*
+<!-- -->
 
--   If the presentation was at a conference, list them here.
+-    Liaised across clients, vendors, and internal teams, providing updates and supporting QA to keep delivery on track.
 
-# Awards & Honors
+**Undergraduate Research Assistant\
+**Sonora Institute of Technology\
+Water and Environmental Sciences Department\
+Sonora, Mexico\
+2021-2022
 
--   List any scholarships, bursaries, etc.
+-   Supported climate impacts research via data collection, dataset management, and reproducible statistical analysis in R.
 
-# Teaching Assistantships
+<!-- -->
 
--   List any TA positions you may have held.
+-    Analyzed 400+ wheat leaf imprint samples and contributed to literature review and technical writing.
 
-# Institutional Service
+**Environmental Intern Lead\
+**Rubisco, Environmental Solutions Consulting\
+Sonora, Mexico\
+2020-2021
 
--   Volunteering etc.
+-   Directed a 4-person project delivering GIS and remote sensing analysis of illegal waste disposal impacts to inform sustainability planning.
+
+<!-- -->
+
+-    Produced georeferenced high-tension tower locations, interpreted UAV-based observations to support infrastructure condition reporting and risk documentation.
+
+##  Conferences 
+
+**1st International Congress of Agroecosystems** \
+Stomatal Characterization of the Durum Wheat Variety CIRNO C2008 in the Yaqui Valley under Elevated Night Temperature Conditions\
+Poster Presentation\
+2021\
+\
+
+## Scholarships 
+
+**2025 Excellence Scholarship for Graduate Studies Abroad**\
+Esposos Rodríguez Foundation\
+\$32,000 USD\
+\
+
+## Institutional Service
+
+**2nd International Conference on Forest Therapy\
+**Logistics Volunteer\
+Vancouver, Canada\
+2025
+
+**6th International Symposium on Environmental Biotechnology and Engineering\
+**Volunteer\
+Sonora, Mexico\
+2018

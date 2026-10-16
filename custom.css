@@ -225,19 +225,21 @@ nav[role="doc-toc"] a.active {
   flex-direction: column;
   gap: 4px;
   padding: 18px 22px;
-  border: 1px solid rgba(107, 124, 63, 0.35);
-  background-color: rgba(255, 255, 255, 0.55) !important;
+  border: 1px solid rgba(107, 124, 63, 0.5);
+  background-color: rgba(255, 255, 255, 0.82) !important;
   backdrop-filter: blur(4px);
+  box-shadow: 0 2px 10px rgba(44, 26, 14, 0.08);
   text-decoration: none !important;
   color: #3d2b1f !important;
-  transition: border-color 0.25s ease, background 0.25s ease, transform 0.2s ease;
+  transition: border-color 0.25s ease, background 0.25s ease, transform 0.2s ease, box-shadow 0.25s ease;
   min-width: 130px;
   border-radius: 4px;
 }
 
 .home-card:hover {
   border-color: #6b7c3f;
-  background-color: rgba(255, 255, 255, 0.8) !important;
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  box-shadow: 0 6px 18px rgba(44, 26, 14, 0.14);
   transform: translateY(-2px);
   text-decoration: none !important;
 }

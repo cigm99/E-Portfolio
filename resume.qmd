@@ -8,83 +8,92 @@ editor: visual
 
 **Master of Geomatics for Environmental Management**\
 University of British Columbia\
-2025 - Present \
+2025-2026\
 
-**B.Eng. Environmental Sciences** \
+**Environmental Sciences Engineering**\
 Sonora Institute of Technology\
-2018 - 2022
+2018-2022
 
 ## **Work Experience**
 
-**Graduate Research Assistant \
-**University of British Columbia, Faculty of Arts\
+\*\*Graduate Research Assistant\*\* University of British Columbia, Faculty of Arts\
 Collaborative Digital Heritage Studio\
 Vancouver, Canada\
-2025 - Present
+2025-2026
 
--   Developed interactive web mapping experiences (ArcGIS Experience Builder, StoryMaps) for Indigenous cultural preservation and storytelling.
+- Developed interactive web mapping experiences (ArcGIS Experience Builder, StoryMaps) for Indigenous cultural preservation and storytelling.
 
 <!-- -->
 
--    Translated research into accessible, public-facing content through cross-team collaboration.
+- Translated research into accessible, public-facing content through cross-team collaboration.
 
-**Project Manager\
-**642 Studio, Digital Marketing & SAAS\
+\*\*Project Manager\*\* 642 Studio, Digital Marketing & SaaS\
 Sonora, Mexico\
 2024-2025
 
--   Coordinated concurrent client projects, managing scope, timelines, deliverables, and documentation.
+- Coordinated concurrent client projects, managing scope, timelines, deliverables, and documentation.
 
 <!-- -->
 
--    Liaised across clients, vendors, and internal teams, providing updates and supporting QA to keep delivery on track.
+- Liaised across clients, vendors, and internal teams, providing updates and supporting QA to keep delivery on track.
 
-**Undergraduate Research Assistant\
-**Sonora Institute of Technology\
+\*\*Undergraduate Research Assistant\*\* Sonora Institute of Technology\
 Water and Environmental Sciences Department\
 Sonora, Mexico\
 2021-2022
 
--   Supported climate impacts research via data collection, dataset management, and reproducible statistical analysis in R.
+- Supported climate impacts research via data collection, dataset management, and reproducible statistical analysis in R.
 
 <!-- -->
 
--    Analyzed 400+ wheat leaf imprint samples and contributed to literature review and technical writing.
+- Analyzed 380+ wheat leaf imprint samples and contributed to literature review and technical writing.
 
-**Environmental Intern Lead\
-**Rubisco, Environmental Solutions Consulting\
+\*\*Environmental Engineering Intern\*\* Rubisco, Environmental Solutions Consulting\
 Sonora, Mexico\
 2020-2021
 
--   Directed a 4-person project delivering GIS and remote sensing analysis of illegal waste disposal impacts to inform sustainability planning.
+- Directed a 4-person project delivering GIS and remote sensing analysis of illegal waste disposal impacts to inform sustainability planning.
 
 <!-- -->
 
--    Produced georeferenced high-tension tower locations, interpreted UAV-based observations to support infrastructure condition reporting and risk documentation.
+- Georeferenced high-tension tower locations and interpreted UAV imagery to support infrastructure condition reports and risk documentation.
 
-##  Conferences 
+## Certifications & Professional Development
 
-**1st International Congress of Agroecosystems** \
-Stomatal Characterization of the Durum Wheat Variety CIRNO C2008 in the Yaqui Valley under Elevated Night Temperature Conditions\
-Poster Presentation\
-2021\
 \
+\*\*Monitoring Surface Water with SAR for Water Resource Management\*\* NASA ARSET · Technical Training\
+2026
 
-## Scholarships 
+**Google Project Management Professional Certificate**\
+Google via Coursera\
+2026
+
+**English Teacher Training Diploma**\
+Sonora Institute of Technology (ITSON)\
+2019\
+\
+\*\*Advanced Wastewater Treatment Workshop\*\* 6th International Symposium on Environmental Biotechnology and Engineering\
+2018\
+
+## **Conferences**
+
+**1st International Congress of Agroecosystems**\
+Instituto Tecnológico del Valle del Yaqui\
+Poster presentation (first author): Stomatal Characterization of the Durum Wheat Variety CIRNO C2008 Grown in the Yaqui Valley under High-Yield and Elevated Night Temperature Conditions\
+2021\
+
+## Scholarships
 
 **2025 Excellence Scholarship for Graduate Studies Abroad**\
 Esposos Rodríguez Foundation\
-\$32,000 USD\
 \
 
 ## Institutional Service
 
-**2nd International Conference on Forest Therapy\
-**Logistics Volunteer\
+\*\*2nd International Conference on Forest Therapy\*\* Logistics Volunteer\
 Vancouver, Canada\
 2025
 
-**6th International Symposium on Environmental Biotechnology and Engineering\
-**Volunteer\
+\*\*6th International Symposium on Environmental Biotechnology and Engineering\*\* Volunteer\
 Sonora, Mexico\
 2018

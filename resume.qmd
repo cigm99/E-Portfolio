@@ -8,18 +8,19 @@ editor: visual
 
 **Master of Geomatics for Environmental Management**\
 University of British Columbia\
-2025-2026\
+2025 - 2026\
 
 **Environmental Sciences Engineering**\
 Sonora Institute of Technology\
-2018-2022
+2018 - 2022
 
 ## **Work Experience**
 
-\*\*Graduate Research Assistant\*\* University of British Columbia, Faculty of Arts\
+**Graduate Research Assistant**\
+University of British Columbia\
 Collaborative Digital Heritage Studio\
 Vancouver, Canada\
-2025-2026
+2025 - 2026
 
 - Developed interactive web mapping experiences (ArcGIS Experience Builder, StoryMaps) for Indigenous cultural preservation and storytelling.
 
@@ -27,9 +28,10 @@ Vancouver, Canada\
 
 - Translated research into accessible, public-facing content through cross-team collaboration.
 
-\*\*Project Manager\*\* 642 Studio, Digital Marketing & SaaS\
+**Project Manager** \
+642 Studio, Digital Marketing & SaaS\
 Sonora, Mexico\
-2024-2025
+2024 - 2025
 
 - Coordinated concurrent client projects, managing scope, timelines, deliverables, and documentation.
 
@@ -37,10 +39,11 @@ Sonora, Mexico\
 
 - Liaised across clients, vendors, and internal teams, providing updates and supporting QA to keep delivery on track.
 
-\*\*Undergraduate Research Assistant\*\* Sonora Institute of Technology\
+**Undergraduate Research Assistant**\
+Sonora Institute of Technology\
 Water and Environmental Sciences Department\
 Sonora, Mexico\
-2021-2022
+2021 - 2022
 
 - Supported climate impacts research via data collection, dataset management, and reproducible statistical analysis in R.
 
@@ -48,9 +51,10 @@ Sonora, Mexico\
 
 - Analyzed 380+ wheat leaf imprint samples and contributed to literature review and technical writing.
 
-\*\*Environmental Engineering Intern\*\* Rubisco, Environmental Solutions Consulting\
+**Environmental Engineering Intern**\
+Rubisco, Environmental Solutions Consulting\
 Sonora, Mexico\
-2020-2021
+2020 - 2021
 
 - Directed a 4-person project delivering GIS and remote sensing analysis of illegal waste disposal impacts to inform sustainability planning.
 
@@ -61,7 +65,8 @@ Sonora, Mexico\
 ## Certifications & Professional Development
 
 \
-\*\*Monitoring Surface Water with SAR for Water Resource Management\*\* NASA ARSET · Technical Training\
+**Monitoring Surface Water with SAR for Water Resource Management**\
+NASA ARSET · Technical Training\
 2026
 
 **Google Project Management Professional Certificate**\
@@ -72,7 +77,8 @@ Google via Coursera\
 Sonora Institute of Technology (ITSON)\
 2019\
 \
-\*\*Advanced Wastewater Treatment Workshop\*\* 6th International Symposium on Environmental Biotechnology and Engineering\
+**Advanced Wastewater Treatment Workshop** \
+6th International Symposium on Environmental Biotechnology and Engineering\
 2018\
 
 ## **Conferences**
@@ -90,10 +96,12 @@ Esposos Rodríguez Foundation\
 
 ## Institutional Service
 
-\*\*2nd International Conference on Forest Therapy\*\* Logistics Volunteer\
+**2nd International Conference on Forest Therapy** \
+Logistics Volunteer\
 Vancouver, Canada\
 2025
 
-\*\*6th International Symposium on Environmental Biotechnology and Engineering\*\* Volunteer\
+**6th International Symposium on Environmental Biotechnology and Engineering**\
+Volunteer\
 Sonora, Mexico\
 2018

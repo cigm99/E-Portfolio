@@ -203,14 +203,16 @@ nav[role="doc-toc"] a.active {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.9;
-  color: #2c1a0e !important;
+  color: #5c4033 !important;
   max-width: 600px;
   margin-bottom: 40px;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.7);
   backdrop-filter: blur(4px);
+  border: 1px solid rgba(107, 124, 63, 0.5);
+  box-shadow: 0 2px 10px rgba(44, 26, 14, 0.08);
   padding: 24px 32px;
-  border-radius: 6px;
+  border-radius: 4px;
 }
 
 /* ============================================================

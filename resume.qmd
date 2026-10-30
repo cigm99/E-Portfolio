@@ -20,7 +20,7 @@ Sonora Institute of Technology\
 University of British Columbia\
 Collaborative Digital Heritage Studio\
 Vancouver, Canada\
-2025 - 2026
+2026
 
 - Developed interactive web mapping experiences (ArcGIS Experience Builder, StoryMaps) for Indigenous cultural preservation and storytelling.
 
@@ -28,7 +28,7 @@ Vancouver, Canada\
 
 - Translated research into accessible, public-facing content through cross-team collaboration.
 
-**Project Manager** \
+**Project Manager**\
 642 Studio, Digital Marketing & SaaS\
 Sonora, Mexico\
 2024 - 2025
@@ -77,7 +77,7 @@ Google via Coursera\
 Sonora Institute of Technology (ITSON)\
 2019\
 \
-**Advanced Wastewater Treatment Workshop** \
+**Advanced Wastewater Treatment Workshop**\
 6th International Symposium on Environmental Biotechnology and Engineering\
 2018\
 
@@ -96,7 +96,7 @@ Esposos Rodríguez Foundation\
 
 ## Institutional Service
 
-**2nd International Conference on Forest Therapy** \
+**2nd International Conference on Forest Therapy**\
 Logistics Volunteer\
 Vancouver, Canada\
 2025
